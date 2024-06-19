@@ -1,0 +1,14 @@
+output_dir: "docs"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+
+
+#usethis::use_git
+
+#3, 
+
+
+#git config --global user.name "j-pconde"
+#git config --global user.email "conde.jperez@gmail.com"
